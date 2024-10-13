@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>MultiCodeDataEventDriven</RootNamespace>
+    <AssemblyName>MultiCodeDataEventDriven</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="gmsdk-net, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\gmsdk-net.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Server, Version=1.0.0.0, Culture=neutral, PublicKeyToken=23ec7fc2d6eaa4a5, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.SqlServer.Server.1.0.0\lib\net46\Microsoft.SqlServer.Server.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Tesseract, Version=5.2.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Tesseract.5.2.0\lib\net48\Tesseract.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountInfo.cs" />
+    <Compile Include="CapitalSecurity.cs" />
+    <Compile Include="Chan.cs" />
+    <Compile Include="ChanBar.cs" />
+    <Compile Include="Common.cs" />
+    <Compile Include="Const.cs" />
+    <Compile Include="DataDownload.cs" />
+    <Compile Include="DBUtils.cs" />
+    <Compile Include="Instrumentinfos.cs" />
+    <Compile Include="IntradayEntrustment.cs" />
+    <Compile Include="IntradayTransaction.cs" />
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ParameterSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ParameterSettings.Designer.cs">
+      <DependentUpon>ParameterSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuoteInfoList.cs" />
+    <Compile Include="SealingFund.cs" />
+    <Compile Include="SelectedTradeSymbols.cs" />
+    <Compile Include="SetupCustomSecurities.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SetupCustomSecurities.Designer.cs">
+      <DependentUpon>SetupCustomSecurities.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TechnicalIndicators.cs" />
+    <Compile Include="Trade.cs" />
+    <Compile Include="TradeInfo.cs" />
+    <Compile Include="TreeNode.cs" />
+    <Compile Include="Win32.cs" />
+    <Compile Include="Window.cs" />
+    <Compile Include="WindowIntPtr.cs" />
+    <Compile Include="WindowsTreeNode.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+    <None Include="Tesseract-OCR\doc\AUTHORS" />
+    <None Include="Tesseract-OCR\doc\COPYING" />
+    <None Include="Tesseract-OCR\doc\README" />
+    <None Include="Tesseract-OCR\doc\ReleaseNotes" />
+    <None Include="Tesseract-OCR\tessdata\chi_sim.traineddata" />
+    <None Include="Tesseract-OCR\tessdata\configs\ambigs.train" />
+    <None Include="Tesseract-OCR\tessdata\configs\api_config" />
+    <None Include="Tesseract-OCR\tessdata\configs\bigram" />
+    <None Include="Tesseract-OCR\tessdata\configs\box.train" />
+    <None Include="Tesseract-OCR\tessdata\configs\box.train.stderr" />
+    <None Include="Tesseract-OCR\tessdata\configs\digits" />
+    <None Include="Tesseract-OCR\tessdata\configs\hocr" />
+    <None Include="Tesseract-OCR\tessdata\configs\inter" />
+    <None Include="Tesseract-OCR\tessdata\configs\kannada" />
+    <None Include="Tesseract-OCR\tessdata\configs\linebox" />
+    <None Include="Tesseract-OCR\tessdata\configs\logfile" />
+    <None Include="Tesseract-OCR\tessdata\configs\makebox" />
+    <None Include="Tesseract-OCR\tessdata\configs\quiet" />
+    <None Include="Tesseract-OCR\tessdata\configs\rebox" />
+    <None Include="Tesseract-OCR\tessdata\configs\strokewidth" />
+    <None Include="Tesseract-OCR\tessdata\configs\unlv" />
+    <None Include="Tesseract-OCR\tessdata\eng.cube.bigrams" />
+    <None Include="Tesseract-OCR\tessdata\eng.cube.fold" />
+    <None Include="Tesseract-OCR\tessdata\eng.cube.lm" />
+    <None Include="Tesseract-OCR\tessdata\eng.cube.lm_" />
+    <None Include="Tesseract-OCR\tessdata\eng.cube.nn" />
+    <None Include="Tesseract-OCR\tessdata\eng.cube.params" />
+    <None Include="Tesseract-OCR\tessdata\eng.cube.size" />
+    <None Include="Tesseract-OCR\tessdata\eng.cube.word-freq" />
+    <None Include="Tesseract-OCR\tessdata\eng.tesseract_cube.nn" />
+    <None Include="Tesseract-OCR\tessdata\eng.traineddata" />
+    <None Include="Tesseract-OCR\tessdata\num_1.traineddata" />
+    <None Include="Tesseract-OCR\tessdata\tessconfigs\batch" />
+    <None Include="Tesseract-OCR\tessdata\tessconfigs\batch.nochop" />
+    <None Include="Tesseract-OCR\tessdata\tessconfigs\matdemo" />
+    <None Include="Tesseract-OCR\tessdata\tessconfigs\msdemo" />
+    <None Include="Tesseract-OCR\tessdata\tessconfigs\nobatch" />
+    <None Include="Tesseract-OCR\tessdata\tessconfigs\segdemo" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Tesseract-OCR\ambiguous_words.exe" />
+    <Content Include="Tesseract-OCR\classifier_tester.exe" />
+    <Content Include="Tesseract-OCR\cntraining.exe" />
+    <Content Include="Tesseract-OCR\combine_tessdata.exe" />
+    <Content Include="Tesseract-OCR\dawg2wordlist.exe" />
+    <Content Include="Tesseract-OCR\doc\eurotext.tif" />
+    <Content Include="Tesseract-OCR\doc\phototest.tif" />
+    <Content Include="Tesseract-OCR\java\ScrollView.jar" />
+    <Content Include="Tesseract-OCR\mftraining.exe" />
+    <Content Include="Tesseract-OCR\output\ocr_output_buffer.txt" />
+    <Content Include="Tesseract-OCR\shapeclustering.exe" />
+    <Content Include="Tesseract-OCR\tesseract.exe" />
+    <Content Include="Tesseract-OCR\unicharset_extractor.exe" />
+    <Content Include="Tesseract-OCR\wordlist2dawg.exe" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ParameterSettings.resx">
+      <DependentUpon>ParameterSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SetupCustomSecurities.resx">
+      <DependentUpon>SetupCustomSecurities.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>if not exist "$(ProjectDir)\bin\gmsdk-net.dll" (xcopy $(ProjectDir)..\..\gmsdk\x86\* $(ProjectDir)bin\ /s /y)</PreBuildEvent>
+  </PropertyGroup>
+  <Import Project="packages\Tesseract.5.2.0\build\Tesseract.targets" Condition="Exists('packages\Tesseract.5.2.0\build\Tesseract.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>这台计算机上缺少此项目引用的 NuGet 程序包。使用“NuGet 程序包还原”可下载这些程序包。有关更多信息，请参见 http://go.microsoft.com/fwlink/?LinkID=322105。缺少的文件是 {0}。</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\Tesseract.5.2.0\build\Tesseract.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Tesseract.5.2.0\build\Tesseract.targets'))" />
+  </Target>
+</Project>

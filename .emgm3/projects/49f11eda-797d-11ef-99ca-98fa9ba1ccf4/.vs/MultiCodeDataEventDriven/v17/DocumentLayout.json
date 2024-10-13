@@ -1,0 +1,482 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|c:\\users\\administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\setupcustomsecurities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|solutionrelative:setupcustomsecurities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\setupcustomsecurities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|solutionrelative:setupcustomsecurities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\parametersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|solutionrelative:parametersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\parametersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|solutionrelative:parametersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\dbutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|solutionrelative:dbutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|solutionrelative:common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\datadownload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|solutionrelative:datadownload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\const.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|solutionrelative:const.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\selectedtradesymbols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|solutionrelative:selectedtradesymbols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\tradeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|solutionrelative:tradeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\trade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|solutionrelative:trade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\technicalindicators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|solutionrelative:technicalindicators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\instrumentinfos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|solutionrelative:instrumentinfos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\quoteinfolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|solutionrelative:quoteinfolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\capitalsecurity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|solutionrelative:capitalsecurity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\windowstreenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|solutionrelative:windowstreenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|solutionrelative:main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\intradayentrustment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|solutionrelative:intradayentrustment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\windowintptr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|solutionrelative:windowintptr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|solutionrelative:window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\win32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|solutionrelative:win32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|solutionrelative:treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\sealingfund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|solutionrelative:sealingfund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\chanbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|solutionrelative:chanbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\chan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|solutionrelative:chan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\accountinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F976310-CDA3-4CFB-BBEC-55DA76862D9B}|MultiCodeDataEventDriven.csproj|solutionrelative:accountinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ParameterSettings.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\ParameterSettings.cs",
+              "RelativeDocumentMoniker": "ParameterSettings.cs",
+              "ToolTip": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\ParameterSettings.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "ParameterSettings.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T08:44:16.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Common.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\Common.cs",
+              "RelativeDocumentMoniker": "Common.cs",
+              "ToolTip": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\Common.cs",
+              "RelativeToolTip": "Common.cs",
+              "ViewState": "AgIAADwDAAAAAAAAAAAvwFcDAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:19:51.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SetupCustomSecurities.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\SetupCustomSecurities.cs",
+              "RelativeDocumentMoniker": "SetupCustomSecurities.cs",
+              "ToolTip": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\SetupCustomSecurities.cs",
+              "RelativeToolTip": "SetupCustomSecurities.cs",
+              "ViewState": "AgIAAGIBAAAAAAAAAAAEwH4BAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T21:28:45.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBUtils.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\DBUtils.cs",
+              "RelativeDocumentMoniker": "DBUtils.cs",
+              "ToolTip": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\DBUtils.cs",
+              "RelativeToolTip": "DBUtils.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAASwG4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:56:35.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Const.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\Const.cs",
+              "RelativeDocumentMoniker": "Const.cs",
+              "ToolTip": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\Const.cs",
+              "RelativeToolTip": "Const.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAASwLcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:58:50.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataDownload.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\DataDownload.cs",
+              "RelativeDocumentMoniker": "DataDownload.cs",
+              "ToolTip": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\DataDownload.cs",
+              "RelativeToolTip": "DataDownload.cs",
+              "ViewState": "AgIAAKwBAAAAAAAAAIA9wK4BAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:36:58.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ParameterSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\ParameterSettings.cs",
+              "RelativeDocumentMoniker": "ParameterSettings.cs",
+              "ToolTip": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\ParameterSettings.cs",
+              "RelativeToolTip": "ParameterSettings.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAASwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T08:45:49.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SetupCustomSecurities.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\SetupCustomSecurities.cs",
+              "RelativeDocumentMoniker": "SetupCustomSecurities.cs",
+              "ToolTip": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\SetupCustomSecurities.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "SetupCustomSecurities.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T21:25:51.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SelectedTradeSymbols.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\SelectedTradeSymbols.cs",
+              "RelativeDocumentMoniker": "SelectedTradeSymbols.cs",
+              "ToolTip": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\SelectedTradeSymbols.cs",
+              "RelativeToolTip": "SelectedTradeSymbols.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAEwCcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:03:01.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TradeInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\TradeInfo.cs",
+              "RelativeDocumentMoniker": "TradeInfo.cs",
+              "ToolTip": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\TradeInfo.cs",
+              "RelativeToolTip": "TradeInfo.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAnwHIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:46:52.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TechnicalIndicators.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\TechnicalIndicators.cs",
+              "RelativeDocumentMoniker": "TechnicalIndicators.cs",
+              "ToolTip": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\TechnicalIndicators.cs",
+              "RelativeToolTip": "TechnicalIndicators.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAMwBIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:47:43.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Trade.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\Trade.cs",
+              "RelativeDocumentMoniker": "Trade.cs",
+              "ToolTip": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\Trade.cs",
+              "RelativeToolTip": "Trade.cs",
+              "ViewState": "AgIAAGQCAAAAAAAAAAAnwHUCAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:21:35.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Instrumentinfos.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\Instrumentinfos.cs",
+              "RelativeDocumentMoniker": "Instrumentinfos.cs",
+              "ToolTip": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\Instrumentinfos.cs",
+              "RelativeToolTip": "Instrumentinfos.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAMwBIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:08:44.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QuoteInfoList.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\QuoteInfoList.cs",
+              "RelativeDocumentMoniker": "QuoteInfoList.cs",
+              "ToolTip": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\QuoteInfoList.cs",
+              "RelativeToolTip": "QuoteInfoList.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAACgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:46:19.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CapitalSecurity.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\CapitalSecurity.cs",
+              "RelativeDocumentMoniker": "CapitalSecurity.cs",
+              "ToolTip": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\CapitalSecurity.cs",
+              "RelativeToolTip": "CapitalSecurity.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:24:36.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAApwLQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T07:28:40.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Main.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\Main.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Main.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:31:09.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WindowsTreeNode.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\WindowsTreeNode.cs",
+              "RelativeDocumentMoniker": "WindowsTreeNode.cs",
+              "ToolTip": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\WindowsTreeNode.cs",
+              "RelativeToolTip": "WindowsTreeNode.cs",
+              "ViewState": "AgIAAOMBAAAAAAAAAAAAAOgBAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:54:24.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAgwJIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:47:15.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IntradayEntrustment.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\IntradayEntrustment.cs",
+              "RelativeDocumentMoniker": "IntradayEntrustment.cs",
+              "ToolTip": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\IntradayEntrustment.cs",
+              "RelativeToolTip": "IntradayEntrustment.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAABQwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:27:16.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Main.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\Main.Designer.cs",
+              "RelativeDocumentMoniker": "Main.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\Main.Designer.cs",
+              "RelativeToolTip": "Main.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAABQwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:51:18.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WindowIntPtr.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\WindowIntPtr.cs",
+              "RelativeDocumentMoniker": "WindowIntPtr.cs",
+              "ToolTip": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\WindowIntPtr.cs",
+              "RelativeToolTip": "WindowIntPtr.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAABQwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:49:15.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Window.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\Window.cs",
+              "RelativeDocumentMoniker": "Window.cs",
+              "ToolTip": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\Window.cs",
+              "RelativeToolTip": "Window.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAMBTwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:55:56.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Win32.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\Win32.cs",
+              "RelativeDocumentMoniker": "Win32.cs",
+              "ToolTip": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\Win32.cs",
+              "RelativeToolTip": "Win32.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwDQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:02:17.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TreeNode.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\TreeNode.cs",
+              "RelativeDocumentMoniker": "TreeNode.cs",
+              "ToolTip": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\TreeNode.cs",
+              "RelativeToolTip": "TreeNode.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBTwA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:56:58.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SealingFund.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\SealingFund.cs",
+              "RelativeDocumentMoniker": "SealingFund.cs",
+              "ToolTip": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\SealingFund.cs",
+              "RelativeToolTip": "SealingFund.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAABIwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:43:51.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ChanBar.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\ChanBar.cs",
+              "RelativeDocumentMoniker": "ChanBar.cs",
+              "ToolTip": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\ChanBar.cs",
+              "RelativeToolTip": "ChanBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:49:06.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Chan.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\Chan.cs",
+              "RelativeDocumentMoniker": "Chan.cs",
+              "ToolTip": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\Chan.cs",
+              "RelativeToolTip": "Chan.cs",
+              "ViewState": "AgIAAM4IAAAAAAAAAAAYwO4IAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:50:47.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AccountInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\AccountInfo.cs",
+              "RelativeDocumentMoniker": "AccountInfo.cs",
+              "ToolTip": "C:\\Users\\Administrator\\.emgm3\\projects\\49f11eda-797d-11ef-99ca-98fa9ba1ccf4\\AccountInfo.cs",
+              "RelativeToolTip": "AccountInfo.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwCYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:32:19.628Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
